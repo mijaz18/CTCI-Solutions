@@ -51,8 +51,5 @@ public class ZeroMatrix{
 	    };
 	    zeroMatrix(input);
 	    System.out.println(Arrays.deepToString(input));
-
-
-
 	}
 }
